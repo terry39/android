@@ -2,7 +2,7 @@ hook project:
 xposed:https://github.com/rovo89/Xposed
 adbi:https://github.com/crmulliner/adbi
 Cydia:http://www.cydiasubstrate.com/
-
+AndroidHooker/hooker:https://github.com/AndroidHooker/hooker
 
 
 learn url:
